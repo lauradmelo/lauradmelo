@@ -2,54 +2,47 @@
 
 **`Estudante de ADS`**
 
-Explorando a tecnologia, aprendendo na prática e transformando ideias em projetos.
+Estudante de Análise e Desenvolvimento de Sistemas, explorando tecnologia e aprendendo na prática através de projetos.
+
 ---
-##Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no Senac São Paulo, atualmente no 3° semestre. Estou construindo minha trajetória na tecnologia, aprendendo na prática através de projetos e novos desafios.
+## Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac São Paulo**, atualmente no 3º semestre. Estou construindo minha trajetória na tecnologia por meio de projetos, estudos e novos desafios.
+
 ---
-### Linguagens e Tecnologias
 
-<img align= "left"
-  alt="Java"
-  title="Java"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+## 🎓 Formação
 
-<img align= "left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+**Análise e Desenvolvimento de Sistemas**
+Senac São Paulo · 3º semestre
+Conclusão prevista: 2027
 
-<img align= "left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+---
 
-<img align= "left"
-  alt="Java"
-  title="Java"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+## 💻 Linguagens e Tecnologias
 
-<img align= "left"
-  alt="MySQL"
-  title="MySQL"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-          
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<br clear="left"/>
+
+---
+
+## 🛠️ Ferramentas
+
+Git • GitHub • VS Code • MySQL Workbench
+
+
+
+
           
 
           
