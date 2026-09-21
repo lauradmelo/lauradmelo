@@ -3,7 +3,7 @@
 **`Estudante de ADS`**
 
 Explorando a tecnologia, aprendendo na prática e transformando ideias em projetos.
-...
+---
 ### Linguagens e Tecnologias
 
 <img align= "left"
