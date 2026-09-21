@@ -4,6 +4,10 @@
 
 Explorando a tecnologia, aprendendo na prática e transformando ideias em projetos.
 ---
+##Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas no Senac São Paulo, atualmente no 3° semestre. Estou construindo minha trajetória na tecnologia, aprendendo na prática através de projetos e novos desafios.
+---
 ### Linguagens e Tecnologias
 
 <img align= "left"
