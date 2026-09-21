@@ -4,8 +4,6 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas, explorando tecnologia e aprendendo na prática através de projetos.
 
----
-
 ## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac São Paulo**, atualmente no 3º semestre. Estou construindo minha trajetória na tecnologia por meio de projetos, estudos e novos desafios.
@@ -30,8 +28,6 @@ Conclusão prevista: 2027
 
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-
----
 
 ## 🛠️ Ferramentas
 
