@@ -1,9 +1,5 @@
 # 👩🏻‍💻 Laura de Melo
 
-**`Estudante de ADS`**
-
-Estudante de Análise e Desenvolvimento de Sistemas, explorando tecnologia e aprendendo na prática através de projetos.
-
 ## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac São Paulo**, atualmente no 3º semestre. Estou construindo minha trajetória na tecnologia por meio de projetos, estudos e novos desafios.
