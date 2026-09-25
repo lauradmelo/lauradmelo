@@ -6,6 +6,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac São Paulo**,
 
 ---
 
+
 ## 🎓 Formação
 
 **Análise e Desenvolvimento de Sistemas**
@@ -13,6 +14,7 @@ Senac São Paulo · 3º semestre
 Conclusão prevista: 2027
 
 ---
+
 
 ## 💻 Linguagens e Tecnologias
 
