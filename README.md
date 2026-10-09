@@ -1,15 +1,10 @@
 # 👩🏻‍💻 Laura de Melo
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lauradmelo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradmelo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/>
-</p>
-
 ## ✨ Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas no Senac São Paulo**, atualmente no 3º semestre. Tenho interesse em desenvolvimento de software e desenvolvimento web, e venho ampliando meus conhecimentos por meio de projetos acadêmicos e experiências práticas.
 
-Utilizo este espaço para compartilhar meus projetos, registrar minha evolução e colocar em prática o que aprendo durante minha formação.
+Utilizo este espaço para compartilhar meus projetos, aplicar o que aprendo durante a graduação e acompanhar minha evolução na tecnologia.
 
 ## 🎓 Formação
 
@@ -30,15 +25,16 @@ Senac São Paulo · 3º semestre
 
 ## 🚀 Projetos
 
-Aqui compartilho projetos acadêmicos e pessoais que desenvolvo ao longo da minha jornada em tecnologia, explorando diferentes ferramentas, conceitos e soluções.
+Confira meus repositórios para conhecer projetos acadêmicos e pessoais desenvolvidos durante minha formação, explorando programação, desenvolvimento web e banco de dados.
 
-## 📊 GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/lauradmelo">
-    <img src="https://img.shields.io/badge/GitHub-lauradmelo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub"/>
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lauradmelo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradmelo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/>
 </p>
+
+---
 
 <p align="center">
   💙 Sempre aprendendo e evoluindo na tecnologia.
