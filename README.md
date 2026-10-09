@@ -1,7 +1,8 @@
 # 👩🏻‍💻 Laura de Melo
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Explorando+o+mundo+da+tecnologia;Aprendendo%2C+desenvolvendo+e+evoluindo." alt="Apresentação animada" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lauradmelo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauradmelo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/>
 </p>
 
 ## ✨ Sobre mim
@@ -34,11 +35,10 @@ Aqui compartilho projetos acadêmicos e pessoais que desenvolvo ao longo da minh
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/>
+  <a href="https://github.com/lauradmelo">
+    <img src="https://img.shields.io/badge/GitHub-lauradmelo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub"/>
+  </a>
 </p>
-
----
 
 <p align="center">
   💙 Sempre aprendendo e evoluindo na tecnologia.
